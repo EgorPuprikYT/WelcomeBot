@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org)
 [![Disnake](https://img.shields.io/badge/Disnake-2.10+-purple?logo=discord)](https://docs.disnake.dev)
-[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?logo=discord)](https://discord.gg/[[ваша-ссылка](https://discord.gg/6yfpJXSZSA)])
+[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?logo=discord)](https://discord.gg/6yfpJXSZSA)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 <div align="center">
