@@ -63,8 +63,8 @@ FOOTER_TEXT = "Добро пожаловать в наше сообщество!
 ## 📸 **Пример работы**
 
 <div align="center">
-  <img src="[https://imgur.com/hhylnrG]" width="400" alt="Пример 1">
-  <img src="[https://imgur.com/JLjDerd]" width="400" alt="Пример 2">
+  <img src="[https://imgur.com/hhylnrG]" alt="Пример 1">
+  <img src="[https://imgur.com/JLjDerd]" alt="Пример 2">
 </div>
 
 ---
