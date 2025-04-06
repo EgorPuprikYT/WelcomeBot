@@ -63,8 +63,8 @@ FOOTER_TEXT = "Добро пожаловать в наше сообщество!
 ## 📸 **Пример работы**
 
 <div align="center">
-  <img src="https://i.imgur.com/welcome-example1.png" width="400" alt="Пример 1">
-  <img src="https://i.imgur.com/welcome-example2.png" width="400" alt="Пример 2">
+  <img src="[https://i.imgur.com/welcome-example1.png](https://cdn.discordapp.com/attachments/1357979619587915958/1358395689851162634/image.png?ex=67f3b012&is=67f25e92&hm=4b962a880495d599de71525cc899bf827524aa24665683b64eefce07521da122&)" width="400" alt="Пример 1">
+  <img src="[https://i.imgur.com/welcome-example2.png](https://cdn.discordapp.com/attachments/1357979619587915958/1358397013384761526/image.png?ex=67f3b14d&is=67f25fcd&hm=977fe38baceea98fd46775179632b3f89a968259c7d305279fa3a544cbfb607b&)" width="400" alt="Пример 2">
 </div>
 
 ---
@@ -85,7 +85,7 @@ WELCOME_IMAGE_URL = "https://i.imgur.com/premium-bg.jpg"
 
 ## 📞 **Поддержка**
 
-По всем вопросам обращайтесь в наш [Discord-сервер поддержки]([https://discord.gg/ваша-ссылка](https://discord.gg/6yfpJXSZSA])  
+По всем вопросам обращайтесь в наш [Discord-сервер]([https://discord.gg/6yfpJXSZSA)  
 Или пишите на почту: **novaspace618@gmail.com**
 
 ---
