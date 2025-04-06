@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org)
 [![Disnake](https://img.shields.io/badge/Disnake-2.10+-purple?logo=discord)](https://docs.disnake.dev)
-[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?logo=discord)](https://discord.gg/6yfpJXSZSA)
+[![Discord](https://img.shields.io/badge/Discord-Support-7289DA?logo=discord)]([https://discord.gg/6yfpJXSZSA](https://discord.gg/vvX8UGaG6H))
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 <div align="center">
@@ -85,7 +85,7 @@ WELCOME_IMAGE_URL = "https://i.imgur.com/premium-bg.jpg"
 
 ## 📞 **Поддержка**
 
-По всем вопросам обращайтесь в наш [Discord-сервер]([https://discord.gg/6yfpJXSZSA)  
+По всем вопросам обращайтесь в наш [Discord-сервер](https://discord.gg/vvX8UGaG6H)  
 Или пишите на почту: **novaspace618@gmail.com**
 
 ---
